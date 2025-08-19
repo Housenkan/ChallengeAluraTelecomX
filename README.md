@@ -2,7 +2,7 @@
 
 # Relatório
 
-Este relatório descreve o passo a passo das etapas de extração e transformação realizadas nos dados para posteriormente ser feita uma análise exploratória para descobrir possíveis razões de Churn da empresa Telecom X
+Este relatório descreve o passo a passo das etapas de extração e transformação realizadas nos dados para posteriormente ser feita uma análise exploratória para descobrir possíveis razões de Churn da empresa Telecom X e supor possíveis soluções para o problema.
 
 ### Extração
 
@@ -44,8 +44,6 @@ Este relatório descreve o passo a passo das etapas de extração e transformaç
 Este relatório resume as principais ações realizadas nas etapas de extração e transformação dos seus dados.
 
 ## Análise da Seção "Carga e Análise" - Possíveis Causas de Churn
-
-Com base na análise dos dados e visualizações geradas na seção "Carga e Análise", podemos observar alguns padrões e relações que podem indicar possíveis razões para o *churn* (cancelamento) de clientes.
 
 ### Distribuição de Churn
 
